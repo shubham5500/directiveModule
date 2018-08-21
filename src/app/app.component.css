@@ -1,0 +1,12 @@
+.container {
+  margin-top: 30px;
+}
+.odd{
+  color: red;
+}
+
+.paraClass{
+  padding: 10px;
+  color: white;
+  background: black !important;
+}
